@@ -1,0 +1,62 @@
+{
+    "id": "groupByRole",
+    "label": "Group by Role",
+    "data": {
+        "gender": {
+            "payEquityGap": {
+                "label": "Pay Equity Gap",
+                "data": {
+                    "minority": {
+                        "label": "Men",
+                        "value": "97¢"
+                    },
+                    "majority": {
+                        "label": "Women",
+                        "value": "$1"
+                    }
+                }
+            },
+            "employeeComparison": {
+                "label": "Employees in Comparison",
+                "data": {
+                    "label": "Men",
+                    "value": "47%"
+                }
+            },
+            "budget": {
+                "label": "Budget",
+                "data": {
+                    "value": "$135,000"
+                }
+            }
+        },
+        "race": {
+            "payEquityGap": {
+                "label": "Pay Equity Gap",
+                "data": {
+                    "minority": {
+                        "label": "Asians",
+                        "value": "87¢"
+                    },
+                    "majority": {
+                        "label": "Hispanics",
+                        "value": "$1"
+                    }
+                }
+            },
+            "employeeComparison": {
+                "label": "Employees in Comparison",
+                "data": {
+                    "label": "Asians",
+                    "value": "24%"
+                }
+            },
+            "budget": {
+                "label": "Budget",
+                "data": {
+                    "value": "$547,000"
+                }
+            }
+        }
+    }
+}

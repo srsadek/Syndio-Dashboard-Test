@@ -8,9 +8,9 @@ This project automates the syndio test dashboard.
 
 ###### Pre-req: Node and npm latest version must be installed
 
-1. Test application under test is deployed in heroku at : https://syndio-dash-test.herokuapp.com/ . this link may not be available online in future. in that case host the app in local
+1. Test application under test is deployed in heroku at : https://syndio-dash-test.herokuapp.com/ . this link may not be available in future. in that case host the app in local
 2. if the AUT is running in local then the url needs to be update in the test project
-3. To do that, please clone this repository and open the package.json file from the root folder
+3. To do that, please clone this repository and open the "package.json" file from the root folder
 4. Update the "baseUrl" value to the local host value including the port.
 5. From the root directory run "npm install" on the command line. this should install all the dependencies
 6. Run "npm run on-chrome" to run the tests in chrome browser

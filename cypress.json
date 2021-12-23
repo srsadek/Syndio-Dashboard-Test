@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://syndio-dash-test.herokuapp.com",
+  "env": {
+    "apiBaseUrl": " https://run.mocky.io/v3"
+  },
+  "projectId": "2q1g5d"
+}

@@ -1,0 +1,62 @@
+{
+    "id": "groupByFunction",
+    "label": "Group by Function",
+    "data": {
+        "gender": {
+            "payEquityGap": {
+                "label": "Pay Equity Gap",
+                "data": {
+                    "minority": {
+                        "label": "Women",
+                        "value": "96¢"
+                    },
+                    "majority": {
+                        "label": "Men",
+                        "value": "$1"
+                    }
+                }
+            },
+            "employeeComparison": {
+                "label": "Employees in Comparison",
+                "data": {
+                    "label": "Women",
+                    "value": "41%"
+                }
+            },
+            "budget": {
+                "label": "Budget",
+                "data": {
+                    "value": "$235,000"
+                }
+            }
+        },
+        "race": {
+            "payEquityGap": {
+                "label": "Pay Equity Gap",
+                "data": {
+                    "minority": {
+                        "label": "Hispanics",
+                        "value": "86¢"
+                    },
+                    "majority": {
+                        "label": "Whites",
+                        "value": "$1"
+                    }
+                }
+            },
+            "employeeComparison": {
+                "label": "Employees in Comparison",
+                "data": {
+                    "label": "Hispanics",
+                    "value": "21%"
+                }
+            },
+            "budget": {
+                "label": "Budget",
+                "data": {
+                    "value": "$535,000"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "syndio-dashboard-test-proj",
+  "version": "1.0.0",
+  "description": "This automates the syndio dash board projects",
+  "main": "index.js",
+  "scripts": {
+    "on-chrome": "npx cypress run --browser chrome --headed",
+    "on-firefox": "npx cypress run --browser firefox --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.2.0"
+  }
+}
