@@ -1,10 +1,10 @@
 # Syndio-Dashboard-Test
 this project automates Syndio dashboard page 
 
-##Overview
+## Overview
 This project automates the syndio test dashboard.
 
-##Please follow the instruction to run the tests locally
+## Please follow the instruction to run the tests locally
 
 ###### Pre-req: Node and npm latest version must be installed
 
